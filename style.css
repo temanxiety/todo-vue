@@ -1,0 +1,9 @@
+ul {
+  cursor: pointer;
+}
+
+.completed {
+  font-style: italic;
+  text-decoration: line-through;
+  color: gray;
+}
